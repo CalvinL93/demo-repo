@@ -1,0 +1,4 @@
+# Demo
+
+ .md = markdown
+ 
