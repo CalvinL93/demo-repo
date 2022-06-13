@@ -29,3 +29,6 @@ git checkout   == creates new branch
 
 git branch    == lists curent branches, * is current branch
 
+git checkout    == also changes branches
+
+git diff 'branch name'   == compares branches
